@@ -316,9 +316,3 @@ Have questions or feedback? Reach out via:
 - Email: SaidLfagrouche@gmail.com
 
 ---
-
-
-
-<div style="position: relative; padding-bottom: 54.37499999999999%; height: 0;">
-  <iframe src="https://www.loom.com/embed/52c9078c2554408e8c401ac481cb2e36?sid=7ce364d3-988d-4cf2-8fef-23801165d80a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
