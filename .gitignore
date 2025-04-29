@@ -1,0 +1,101 @@
+### Backend (Python) ###
+
+# Python virtual environments
+Backend/backend_venv/
+Backend/venv/
+Backend/.venv/
+Backend/env/
+Backend/.env/
+
+# Python bytecode files
+Backend/**/__pycache__/
+Backend/**/*.py[cod]
+Backend/**/*$py.class
+
+# Python distribution / packaging
+Backend/**/*.egg
+Backend/**/*.egg-info/
+Backend/**/dist/
+Backend/**/build/
+Backend/**/eggs/
+Backend/**/.eggs/
+Backend/**/*.so
+Backend/**/*.dylib
+Backend/**/*.dll
+
+# Unit test / coverage reports
+Backend/**/htmlcov/
+Backend/**/.tox/
+Backend/**/.nox/
+Backend/**/.coverage
+Backend/**/.coverage.*
+Backend/**/coverage.xml
+Backend/**/*.cover
+Backend/**/*.py,cover
+Backend/**/.pytest_cache/
+
+# Environments and secrets
+Backend/.env
+Backend/.env.local
+Backend/.env.development
+Backend/.env.test
+Backend/.env.production
+
+# Log files (but keep the log directory structure)
+Backend/logs/*.log
+Backend/logs/*.log.*
+
+# Generated files
+Backend/static/podcasts/*.mp3
+Backend/static/podcasts/*.json
+Backend/static/podcasts/*.processing
+Backend/static/assets/*.mp3
+
+### Frontend (React/TypeScript) ###
+
+# Dependencies
+Frontend/node_modules/
+Frontend/.pnp
+Frontend/.pnp.js
+
+# Testing
+Frontend/coverage/
+
+# Production builds
+Frontend/build/
+Frontend/dist/
+
+# Environment variables
+Frontend/.env
+Frontend/.env.local
+Frontend/.env.development.local
+Frontend/.env.test.local
+Frontend/.env.production.local
+
+# Logs
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+*~
+
+# Common backend+frontend shared ignores
+**/.DS_Store
+**/Thumbs.db
+**/.idea/
+**/.vscode/
+**/*.log
+**/*.bak
