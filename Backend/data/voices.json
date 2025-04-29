@@ -1,0 +1,22 @@
+{
+  "english": {
+    "male": ["pNInz6obpgDQGcFmaJgB", "ErXwobaYiN019PkySvjV", "VR6AewLTigWG4xSOukaG"],
+    "female": ["21m00Tcm4TlvDq8ikWAM", "EXAVITQu4vr4xnSDxMaL", "D38z5RcWu1voky8WS1ja"]
+  },
+  "spanish": {
+    "male": ["TxGEqnHWrfWFTfGW9XjX", "SOYHLrjzK2X1ezoPC6cr"],
+    "female": ["GBv7mTt0atIp3Br8iCZE", "HiFB1pJy0bHHuqmQVbEj"]
+  },
+  "voice_names": {
+    "pNInz6obpgDQGcFmaJgB": "Josh",
+    "ErXwobaYiN019PkySvjV": "Adam",
+    "VR6AewLTigWG4xSOukaG": "Sam",
+    "21m00Tcm4TlvDq8ikWAM": "Rachel",
+    "EXAVITQu4vr4xnSDxMaL": "Nicole",
+    "D38z5RcWu1voky8WS1ja": "Emily",
+    "TxGEqnHWrfWFTfGW9XjX": "Antonio",
+    "SOYHLrjzK2X1ezoPC6cr": "Miguel",
+    "GBv7mTt0atIp3Br8iCZE": "Maria",
+    "HiFB1pJy0bHHuqmQVbEj": "Sofia"
+  }
+}
