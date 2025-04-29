@@ -9,6 +9,15 @@
 AI Podcast Producer is a cutting-edge application that automatically generates engaging podcasts from news articles using artificial intelligence. The system transforms text-based news into conversational audio content, creating a natural-sounding podcast with host and co-host dynamics.
 
 ### 🚀 Quick Demo
+Click below to watch the demonstration:
+<div>
+    <a href="https://www.loom.com/share/52c9078c2554408e8c401ac481cb2e36">
+      <p>AI Podcast Producer --Demo 🚀 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/52c9078c2554408e8c401ac481cb2e36">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/52c9078c2554408e8c401ac481cb2e36-396ca33d74a09c36-full-play.gif">
+    </a>
+  </div>
 
 1. Choose your podcast topics (e.g., Technology, Finance, Health)
 2. Select voice personalities for host and co-host
@@ -307,3 +316,9 @@ Have questions or feedback? Reach out via:
 - Email: SaidLfagrouche@gmail.com
 
 ---
+
+
+
+<div style="position: relative; padding-bottom: 54.37499999999999%; height: 0;">
+  <iframe src="https://www.loom.com/embed/52c9078c2554408e8c401ac481cb2e36?sid=7ce364d3-988d-4cf2-8fef-23801165d80a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
